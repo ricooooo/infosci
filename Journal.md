@@ -1,4 +1,4 @@
-#this is my jiournal
+# this is my journal
 
 -2020.2.4-the second class-
 
@@ -9,6 +9,9 @@
  
 
 2.what did you learn
+
+
+Today we worked on processing
 
 def setup():
   size (1000,1000)
@@ -36,6 +39,7 @@ def mouseClicked():
   print(x,y)
  
 
-#Home work
-how to make the line to the center from the circle
-add line from circle for circles
+## Homework second class
+
+1. how to make the line to the center from the circle
+2. add line from circle for circles
